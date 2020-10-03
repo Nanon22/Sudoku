@@ -22,8 +22,6 @@ import fr.nanon.universjavamobile.sudoku.R;
  */
 public class Box extends AppCompatEditText {
 
-    private TextPaint mTextPaint;
-
     public int value;
     public int position_X;
     public int position_Y;
@@ -46,7 +44,6 @@ public class Box extends AppCompatEditText {
 
     private void init(AttributeSet attrs, int defStyle) {
         this.setGravity(Gravity.CENTER);
-
     }
 
     @Override
