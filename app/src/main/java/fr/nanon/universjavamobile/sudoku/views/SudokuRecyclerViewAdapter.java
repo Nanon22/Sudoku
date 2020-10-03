@@ -73,7 +73,7 @@ public class SudokuRecyclerViewAdapter extends RecyclerView.Adapter<SudokuRecycl
             //du jeu de soduku
             Box box = (Box) current_row.getChildAt(i);
 
-            //Applique un design spécique à la case en fonction de sn=on emplacement
+            //Applique un design spécique à la case en fonction de son emplacement
             if(position == 2 || position == 5) {
                 if(i == 2 || i == 5) {
                     box.setBackgroundResource(R.drawable.box_background7);

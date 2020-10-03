@@ -11,5 +11,6 @@
     <string name="menu">Home</string>
     <string name="effacer">Clean</string>
     <string name="new_grid">New Grid</string>
-    <string name="working_on">We still working on that module, see you in the next update..</string>
+    <string name="working_on">We are still working on this module, see you in the next update..
+    </string>
 </resources>
