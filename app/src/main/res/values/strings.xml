@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Sudoku</string>
+    <string name="tab_text_1">Home</string>
+    <string name="tab_text_2">Statistics</string>
+    <string name="tab_text_3">Game</string>
+    <string name="easy">Easy</string>
+    <string name="medium">Medium</string>
+    <string name="hard">Hard</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="new_game">New Game</string>
+    <string name="menu">Home</string>
+    <string name="effacer">Clean</string>
+    <string name="new_grid">New Grid</string>
+    <string name="working_on">We still working on that module, see you in the next update..</string>
+</resources>
